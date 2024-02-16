@@ -251,6 +251,10 @@ const components = new Map([
           name: 'Trailing Visual',
         },
         {
+          id: 'components-button-features--trailing-visual',
+          name: 'Trailing Visual Secondary',
+        },
+        {
           id: 'components-button-features--trailing-counter-all-variants',
           name: 'Trailing Counter All Variants',
         },
